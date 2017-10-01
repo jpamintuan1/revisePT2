@@ -1,0 +1,35 @@
+{
+  "name": "revisept",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpamintuan1/revisePT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpamintuan1/revisePT/issues"
+  },
+  "homepage": "https://github.com/jpamintuan1/revisePT#readme",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.2",
+    "config-json": "^1.0.0",
+    "config.json": "0.0.4",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.5",
+    "mysql": "^2.14.1",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "passport-local-sequelize": "^0.8.0",
+    "sequelize": "^4.10.3"
+  }
+}
